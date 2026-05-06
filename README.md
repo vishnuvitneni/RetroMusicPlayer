@@ -1,3 +1,5 @@
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7191906117952540"
+     crossorigin="anonymous"></script></head>
 <head>AdSense code snippet</head><p align="center">
   <a href="https://retromusic.app">
     <img src="app\src\main\ic_launcher-web.png" height="128">
