@@ -1,4 +1,4 @@
-<p align="center">
+<head>AdSense code snippet</head><p align="center">
   <a href="https://retromusic.app">
     <img src="app\src\main\ic_launcher-web.png" height="128">
     <h1 align="center">Retro Music Player 🎵</h1>
